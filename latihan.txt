@@ -3,3 +3,5 @@ LATIHAN
 - Belajar Android Studio
 - Belajar Kotlin
 
+- Belajar AI
+- Belajar OOP
